@@ -32,6 +32,7 @@ www.jetbrains.com/resharper/
 Графический клиент для git: https://tortoisegit.org
 
 Настройте его:
+
 ![](http://c2n.me/3gdeoqT.png)
 
 ### WebStorm
