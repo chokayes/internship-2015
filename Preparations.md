@@ -1,6 +1,5 @@
-Что нужно установить на компьютер перед школой
-===
-
+# Что сделать перед школой?
+## Установить необходимый софт
 
 ###Visual Studio 2013
 Можно скачать trial версию 2013 тут: 
@@ -17,7 +16,7 @@ www.jetbrains.com/resharper/
 Рекомендуется посмотреть ознакомительное видео по ссылке выше.
 
 ### Git
-Консольный клиент: http://git-scm.com/downloads
+Консольный клиент: http://msysgit.github.io/
 
 В процессе установке сделать следующие настройки:
 
@@ -32,6 +31,9 @@ www.jetbrains.com/resharper/
 ### TortoiseGit
 Графический клиент для git: https://tortoisegit.org
 
+Настройте его:
+!()[http://c2n.me/3gdeoqT.png]
+
 ### WebStorm
 
 Среда разработки для JavaScript. https://www.jetbrains.com/webstorm/
@@ -39,3 +41,11 @@ www.jetbrains.com/resharper/
 ### Node.js
 
 Платформа для выполнения JS вне браузера. https://nodejs.org/
+
+## Что почитать?
+
+Будет эффективнее и проще для вас, если вы заранее дома самостоятельно прочитаете два вот этих материала:
+
+1. Первые три главы книги про git: http://git-scm.com/book/ru/v1
+2. http://objectmentor.com/resources/articles/Principles_and_Patterns.pdf
+
