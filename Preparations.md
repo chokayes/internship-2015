@@ -47,6 +47,6 @@ www.jetbrains.com/resharper/
 
 Будет эффективнее и проще для вас, если вы заранее дома самостоятельно прочитаете два вот этих материала:
 
-1. Первые три главы книги про git: http://git-scm.com/book/ru/v1
+1. Первые три главы книги про git: http://git-scm.com/book/ru/v2
 2. http://objectmentor.com/resources/articles/Principles_and_Patterns.pdf
 
