@@ -1,6 +1,7 @@
 # Git
 
 Как выучить гит? От простых способов к сложным:
+
 1. Пройти [супер-краткий гайд](http://rogerdudler.github.io/git-guide/)
 2. Скачать на рабочий стол [Git Cheat Sheet](git_cheat_sheet.pdf)
 3. Пройти [интерактивный учебный курс](https://try.github.io) от github и schoolacademy по основам git.
