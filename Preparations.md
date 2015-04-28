@@ -43,10 +43,10 @@ www.jetbrains.com/resharper/
 
 Платформа для выполнения JS вне браузера. https://nodejs.org/
 
-## Что почитать?
+## Читать!
 
 Будет эффективнее и проще для вас, если вы заранее дома самостоятельно прочитаете два вот этих материала:
 
-1. Первые три главы книги про git: http://git-scm.com/book/ru/v2
-2. http://objectmentor.com/resources/articles/Principles_and_Patterns.pdf
-
+1. Мы будем активно использовать git во время школы. Если вы прочтете три главы книги про git: http://git-scm.com/book/ru/v2 вам будет заметно легче.
+2. Чтобы легче осваивались темы про проектирование, прочитайте (сколько успеете) статью про принципы SOLID.  http://objectmentor.com/resources/articles/Principles_and_Patterns.pdf
+3. Чтобы не возникало проблем в день посвещенный JavaScript-у, вы должны знать по крайней мере самые основы HTML и верстки. Если вы не уверены в себе, пройдите первые несколько курсов на [Html Academy](https://htmlacademy.ru)
