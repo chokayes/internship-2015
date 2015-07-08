@@ -7,12 +7,6 @@
 * [Git](/Git)
 * [Tools](/Tools)
 * [Тестирование](https://github.com/kontur-intern-2015/testing)
-* [Тестирование](https://github.com/kontur-intern-2015/design)
+* [Проектирование](https://github.com/kontur-intern-2015/design)
 * [Front-end](https://github.com/kontur-intern-2015/front-end)
 * [Задача по Front-end](https://github.com/kontur-intern-2015/TodoApp)
-
-## Ссылки
-
-TODO
-
-
